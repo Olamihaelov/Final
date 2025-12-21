@@ -55,12 +55,12 @@ Bootstrap Sampling הוא דגימה באקראי *עם החזרה* מהדאטה
 אילו Hyperparameters נפוצים קיימים במודל Random Forest?
 
 **תשובה**  
-- `n_estimators` – מספר העצים ביער.  
-- `max_depth` – עומק מקסימלי לכל עץ.  
-- `min_samples_split` – מינימום דוגמאות לפיצול צומת.  
-- `min_samples_leaf` – מינימום דוגמאות בעלה.  
-- `max_features` – כמה פיצ'רים מגרילים בכל פיצול.  
-- `bootstrap` – האם להשתמש ב־Bootstrap Sampling.  
+- n_estimators – מספר העצים ביער.  
+- max_depth – עומק מקסימלי לכל עץ.  
+- min_samples_split – מינימום דוגמאות לפיצול צומת.  
+- min_samples_leaf – מינימום דוגמאות בעלה.  
+- max_features – כמה פיצ'רים מגרילים בכל פיצול.  
+- bootstrap – האם להשתמש ב־Bootstrap Sampling.  
 
 ---
 
@@ -85,7 +85,7 @@ Random Forest, שממוצע או מצביע על פני הרבה עצים שונ
 אילו מדדי ביצוע מתאימים להערכת מודל Random Forest בקלסיפיקציה וברגרסיה?
 
 **תשובה**  
-- לקלסיפיקציה:  
+* לקלסיפיקציה:  
   - Accuracy  
   - Precision, Recall, F1 Score  
   - Confusion Matrix  
