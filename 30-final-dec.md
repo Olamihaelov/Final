@@ -100,6 +100,6 @@ Gini Impurity הוא מדד לכמה הצומת "מעורבב" מבחינת מח
   - MSE (Mean Squared Error)  
   - RMSE (Root MSE)  
   - MAE (Mean Absolute Error)  
-  - R² (coefficient of determination)
+  - R² 
 
 ---
